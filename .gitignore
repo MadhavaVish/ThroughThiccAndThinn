@@ -30,6 +30,7 @@
 *.out
 *.app
 
-bin/
 
+bin/
+!vendor/bin/
 bin-int/
