@@ -12,6 +12,12 @@ and move it to the GPU!
 - Disney BRDF
 - Vulkan Compute (I know this isn't really a feature but it was cool when I got my first vulkan project working)
 
+## Building
+- Clone
+- Go to scripts and run Setup.bat
+- Open the generated vs project
+- Compile and enjoy
+- (Have vulkan installed)
 ## Gallery
 
 ![image](https://github.com/MadhavaVish/ThroughThiccAndThinn/assets/19480221/264ccbbe-0db5-4e4f-b391-d53fa2c99345)
